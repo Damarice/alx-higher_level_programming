@@ -92,7 +92,7 @@ Completion of this source code.
 
 8-concat_edges.py: Python script that prints object-oriented programming with Python, followed by a new line without creating new variables or string literals.
 
-Completion of this source code.
+Completion of this source code
 
 9. Easter Egg
 
